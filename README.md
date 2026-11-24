@@ -3,6 +3,9 @@ Real-Time Emotion Detection using Python, OpenCV and FER
 
 Developed by: Akhil Gautam.
 
+<img width="1280" height="720" alt="screenshot_20261124_230233" src="https://github.com/user-attachments/assets/d8ba30eb-b5d0-4a1e-82d7-c6496e0d2aa9" />
+
+
 ## Features
 - Real-Time Emotion Detection
 - Face Detection
