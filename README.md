@@ -1,8 +1,7 @@
 # AI-Emotion-Detection-System
 Real-Time Emotion Detection using Python, OpenCV and FER
-# AI Emotion Detection System
 
-A Real-Time Emotion Detection System built with Python, OpenCV, TensorFlow and FER.
+Developed by: Akhil Gautam.
 
 ## Features
 - Real-Time Emotion Detection
